@@ -2,17 +2,16 @@
   Hi👋, I’m Fathalrhman
 </h1>
 
-I'm a Machine Learning practitioner based in Sudan. I'm pursuing my Fifth year B.Sc (hons) in Software Engineering while working as a machine learning engineer trainee at ShAI for AI for year and half. I work in Solving various Machine Learning problems such as developing software solutions, data engineering challenges, building
+I'm a Machine Learning practitioner based in Sudan. I'm pursuing my Fifth year B.Sc (hons) in Software Engineering while working as a machine learning engineer intern at ShAI for AI for year and half. I work in Solving various Machine Learning problems such as developing software solutions, data engineering challenges, building
 data pipelines and productionizing machine learning models.<br>
 Check out my Content <a href="https://www.facebook.com/Fathalrhman.A.Abdallah"> here </a> I post Content in Arabic about Software Engineering, Data Science, machine learning, deep learning and reiforcement learning occasionally.
 
 - 👀 I’m mainly interested in Deeplearning and Reinforcement Learning 
 - 🌱 I’m currently learning deep learning reinforcement learning 
 - 💞️ I’m looking to collaborate on Multi-agent problems 
-- 
-<h2>
-  🔨 Stack
-</h2>
+
+ ## 🔨 Stack
+ 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -28,9 +27,9 @@ Check out my Content <a href="https://www.facebook.com/Fathalrhman.A.Abdallah"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>
-  let's Connect
-</h2> 
+
+## let's Connect
+
 <a href="https://twitter.com/Fathalrhman26">
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
   </a>
