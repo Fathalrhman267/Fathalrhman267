@@ -7,8 +7,8 @@ data pipelines and productionizing machine learning models.
 - 💞️ I’m looking to collaborate on Multi-agent problems 
 
 # let's Connect 
-
-<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white" /> (https://twitter.com/Fathalrhman26)  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/fathalrhman26/)
+<img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 
 
 <!---
