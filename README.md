@@ -4,7 +4,7 @@
 
 I'm a Machine Learning practitioner based in Sudan. I'm pursuing my Fifth year B.Sc (hons) in Software Engineering while working as a machine learning engineer intern at ShAI for AI for year and half. I work in Solving various Machine Learning problems such as developing software solutions, data engineering challenges, building
 data pipelines and productionizing machine learning models.<br>
-Check out my Content <a href="https://www.facebook.com/Fathalrhman.A.Abdallah"> here </a> I post Content in Arabic about Software Engineering, Data Science, machine learning, deep learning and reiforcement learning occasionally.
+Check out my Content <a href="https://www.X.com/Fathalrhman26"> here </a> I post Content in Arabic about Software Engineering, Data Science, machine learning, deep learning and reiforcement learning occasionally.
 
 - 👀 I’m mainly interested in Deeplearning and Reinforcement Learning 
 - 🌱 I’m currently learning deep learning reinforcement learning 
