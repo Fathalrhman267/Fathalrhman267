@@ -23,13 +23,13 @@ I have a strong foundation in both theoretical and practical aspects of software
 
 ## Let's Connect
 
-<a href="https://x.com/Fathalrhman26">
-<img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=X&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/fathalrhman26/">
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-
+<a 
+href="https://x.com/Fathalrhman26">
+  <img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=X&logoColor=white" />
+  </a>
 ---
 
 Thank you for visiting my profile! Let's innovate together and make a difference through technology.
