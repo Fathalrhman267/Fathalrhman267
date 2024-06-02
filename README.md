@@ -16,6 +16,7 @@ I have a strong foundation in both theoretical and practical aspects of software
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -23,8 +24,8 @@ I have a strong foundation in both theoretical and practical aspects of software
 ## Let's Connect
 
 <a href="https://x.com/Fathalrhman26">
-  <img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=x&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/fathalrhman26/">
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
