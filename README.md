@@ -17,7 +17,6 @@ I have a strong foundation in both theoretical and practical aspects of software
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-
 </div>
 
 
@@ -30,6 +29,5 @@ I have a strong foundation in both theoretical and practical aspects of software
 href="https://x.com/Fathalrhman26">
   <img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=X&logoColor=white" />
   </a>
----
 
 Thank you for visiting my profile! Let's innovate together and make a difference through technology.
